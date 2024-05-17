@@ -1,0 +1,24 @@
+ .button13 {
+    transition: all 0.4s ease-in-out;
+    width: 150px;
+    height: 60px;
+    font-size: 20px;
+    color: rgb(241, 228, 199);
+    font-weight: 500;
+    border-radius: 50px;
+    background-image: linear-gradient(135deg, #E2B0FF 0%, #9F44D3 100%);
+    box-shadow: 0 20px 30px -6px rgba(171, 88, 219, 0.5);
+    outline: none;
+    border: none;
+    cursor: pointer;
+    margin:15px;
+  }
+
+  .button13:hover {
+    transform: translateY(10px);
+    box-shadow: none;
+  }
+  .button13:active {
+    opacity: 0.5;
+  }
+  

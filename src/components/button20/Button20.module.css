@@ -1,0 +1,92 @@
+ .purple {
+    transition: all 0.4s ease-in-out;
+    border: 2px solid #512DA8;
+    width: 140px;
+    height: 50px;
+    outline: none;
+    margin: 15px;
+    cursor: pointer;
+    background: none;
+    font-size: 20px;
+    border-radius: 5px;
+    font-family: "Lato", sans-serif;
+  }
+  /* Buttons */
+  .purple:hover {
+   background-color: #512DA8;
+   border: none;
+   color: white;
+   font-size: 24px;
+   transform: scale(1.1);
+  }
+  
+  /* lorange */
+  .lorange{
+    transition: all 0.4s ease-in-out;
+    border: 2px solid #FBC02D;
+    width: 140px;
+    height: 50px;
+    outline: none;
+    margin: 15px;
+    cursor: pointer;
+    background: none;
+    font-size: 20px;
+    border-radius: 5px;
+    font-family: "Lato", sans-serif;
+  
+  }
+  .lorange:hover{
+   background-color: #FBC02D;
+   border: none;
+   color: white;
+   font-size: 24px;
+   transform: scale(1.1);
+  }
+  
+  /* brick */
+  .brick{
+    transition: all 0.4s ease-in-out;
+    border: 2px solid #FF5722;
+    width: 140px;
+    height: 50px;
+    outline: none;
+    margin: 15px;
+    cursor: pointer;
+    background: none;
+    font-size: 20px;
+    border-radius: 5px;
+    font-family: "Lato", sans-serif;
+  
+  }
+  .brick:hover {
+   background-color:  #FF5722;
+   border: none;
+   color: white;
+   font-size: 24px;
+   transform: scale(1.1);
+  }
+   /* brick */
+   .blue{
+    /* transition: all 0.5s ease-in-out; */
+    border: 2px solid rgba(0, 0, 255, 0.541);
+    width: 140px;
+    height: 50px;
+    outline: none;
+    margin: 15px;
+    cursor: pointer;
+    background: none;
+    transition: 0.5s;
+    font-size: 20px;
+    border-radius: 5px;
+    transition: 1.4s;
+    font-family: "Lato", sans-serif;
+  
+  }
+  .blue:hover {
+   background-color: rgba(0, 0, 255, 0.541);
+   border: none;
+   color: white;
+   border-radius: 25px;
+   transition: 0.5s;
+  }
+  
